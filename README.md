@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on improving python knowledge
-- 🌱 I’m currently learning Python, and AWS services
+- 🔭 I’m currently working on improving my python knowledge
+- 🌱 I’m currently learning Python, and working to become an AWS Solutions Architect
 - 👯 I’m mostly focusing on improving my programming skills.
 - 🤔 I’m looking for help with useful python functions to create games, but i have basic python knowledge
 - 💬 Don't ask me about anything, i know nothing
